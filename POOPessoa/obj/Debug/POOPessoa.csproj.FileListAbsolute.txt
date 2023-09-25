@@ -1,0 +1,8 @@
+Z:\EC2\ALG2\POOPessoa\POOPessoa\bin\Debug\POOPessoa.exe.config
+Z:\EC2\ALG2\POOPessoa\POOPessoa\bin\Debug\POOPessoa.exe
+Z:\EC2\ALG2\POOPessoa\POOPessoa\bin\Debug\POOPessoa.pdb
+Z:\EC2\ALG2\POOPessoa\POOPessoa\obj\Debug\POOPessoa.csproj.AssemblyReference.cache
+Z:\EC2\ALG2\POOPessoa\POOPessoa\obj\Debug\POOPessoa.csproj.SuggestedBindingRedirects.cache
+Z:\EC2\ALG2\POOPessoa\POOPessoa\obj\Debug\POOPessoa.csproj.CoreCompileInputs.cache
+Z:\EC2\ALG2\POOPessoa\POOPessoa\obj\Debug\POOPessoa.exe
+Z:\EC2\ALG2\POOPessoa\POOPessoa\obj\Debug\POOPessoa.pdb
